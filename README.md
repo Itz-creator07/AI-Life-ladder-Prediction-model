@@ -31,5 +31,5 @@
 
 <h3>💡 Why It Matters</h3>
 <p>
-  Predicting well-being enables smarter, more human-centered systems. This model can help governments, nonprofits, and organizations understand population needs and prioritize impactful decisions.
+  Understanding and predicting well-being goes beyond data science—it supports smarter, more human-centered systems. This model can help governments, nonprofits, and organizations understand population needs and prioritize impactful decisions.
 </p>
