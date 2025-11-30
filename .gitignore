@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (if large)
+*.csv
+*.xlsx
+data/*.csv
+!data/WHR2018Chapter2OnlineData.csv
+
+# Model files
+*.pkl
+*.h5
+*.joblib
+
+# Logs
+*.log
